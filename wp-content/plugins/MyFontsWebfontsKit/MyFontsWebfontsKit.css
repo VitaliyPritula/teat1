@@ -1,0 +1,118 @@
+﻿/**
+ * @license
+ * MyFonts Webfont Build ID 3826580, 2019-10-20T22:23:33-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Texta-BlackIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/black-italic/
+ * 
+ * Webfont: Texta-Black by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/black/
+ * 
+ * Webfont: Texta-BookIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/book-italic/
+ * 
+ * Webfont: Texta-Book by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/book/
+ * 
+ * Webfont: Texta-Bold by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/bold/
+ * 
+ * Webfont: Texta-BoldIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/bold-italic/
+ * 
+ * Webfont: Texta-HeavyIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/heavy-italic/
+ * 
+ * Webfont: Texta-Light by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/light/
+ * 
+ * Webfont: Texta-Heavy by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/heavy/
+ * 
+ * Webfont: Texta-Medium by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/medium/
+ * 
+ * Webfont: Texta-LightIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/light-italic/
+ * 
+ * Webfont: Texta-MediumIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/medium-italic/
+ * 
+ * Webfont: Texta-Regular by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/regular/
+ * 
+ * Webfont: Texta-RegularIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/italic/
+ * 
+ * Webfont: Texta-ThinIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/thin-italic/
+ * 
+ * Webfont: Texta-Thin by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/thin/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3826580
+ * Licensed pageviews: 10,000
+ * Webfonts copyright: Copyright (c) 2014 by Daniel Hernandez &amp; Miguel Hernandez. All rights reserved.
+ * 
+ * © 2019 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("../../../count/3a6394");
+
+  
+@font-face {font-family: 'Texta-BlackIt';src: url('webfonts/3A6394_0_0.eot');src: url('webfonts/3A6394_0_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_0_0.woff2') format('woff2'),url('webfonts/3A6394_0_0.woff') format('woff'),url('webfonts/3A6394_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-Black';src: url('webfonts/3A6394_1_0.eot');src: url('webfonts/3A6394_1_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_1_0.woff2') format('woff2'),url('webfonts/3A6394_1_0.woff') format('woff'),url('webfonts/3A6394_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-BookIt';src: url('webfonts/3A6394_2_0.eot');src: url('webfonts/3A6394_2_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_2_0.woff2') format('woff2'),url('webfonts/3A6394_2_0.woff') format('woff'),url('webfonts/3A6394_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-Book';src: url('webfonts/3A6394_3_0.eot');src: url('webfonts/3A6394_3_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_3_0.woff2') format('woff2'),url('webfonts/3A6394_3_0.woff') format('woff'),url('webfonts/3A6394_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-Bold';src: url('webfonts/3A6394_4_0.eot');src: url('webfonts/3A6394_4_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_4_0.woff2') format('woff2'),url('webfonts/3A6394_4_0.woff') format('woff'),url('webfonts/3A6394_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-BoldIt';src: url('webfonts/3A6394_5_0.eot');src: url('webfonts/3A6394_5_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_5_0.woff2') format('woff2'),url('webfonts/3A6394_5_0.woff') format('woff'),url('webfonts/3A6394_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-HeavyIt';src: url('webfonts/3A6394_6_0.eot');src: url('webfonts/3A6394_6_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_6_0.woff2') format('woff2'),url('webfonts/3A6394_6_0.woff') format('woff'),url('webfonts/3A6394_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-Light';src: url('webfonts/3A6394_7_0.eot');src: url('webfonts/3A6394_7_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_7_0.woff2') format('woff2'),url('webfonts/3A6394_7_0.woff') format('woff'),url('webfonts/3A6394_7_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-Heavy';src: url('webfonts/3A6394_8_0.eot');src: url('webfonts/3A6394_8_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_8_0.woff2') format('woff2'),url('webfonts/3A6394_8_0.woff') format('woff'),url('webfonts/3A6394_8_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-Medium';src: url('webfonts/3A6394_9_0.eot');src: url('webfonts/3A6394_9_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_9_0.woff2') format('woff2'),url('webfonts/3A6394_9_0.woff') format('woff'),url('webfonts/3A6394_9_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-LightIt';src: url('webfonts/3A6394_A_0.eot');src: url('webfonts/3A6394_A_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_A_0.woff2') format('woff2'),url('webfonts/3A6394_A_0.woff') format('woff'),url('webfonts/3A6394_A_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-MediumIt';src: url('webfonts/3A6394_B_0.eot');src: url('webfonts/3A6394_B_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_B_0.woff2') format('woff2'),url('webfonts/3A6394_B_0.woff') format('woff'),url('webfonts/3A6394_B_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-Regular';src: url('webfonts/3A6394_C_0.eot');src: url('webfonts/3A6394_C_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_C_0.woff2') format('woff2'),url('webfonts/3A6394_C_0.woff') format('woff'),url('webfonts/3A6394_C_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-RegularIt';src: url('webfonts/3A6394_D_0.eot');src: url('webfonts/3A6394_D_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_D_0.woff2') format('woff2'),url('webfonts/3A6394_D_0.woff') format('woff'),url('webfonts/3A6394_D_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-ThinIt';src: url('webfonts/3A6394_E_0.eot');src: url('webfonts/3A6394_E_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_E_0.woff2') format('woff2'),url('webfonts/3A6394_E_0.woff') format('woff'),url('webfonts/3A6394_E_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Texta-Thin';src: url('webfonts/3A6394_F_0.eot');src: url('webfonts/3A6394_F_0-1.eot') format('embedded-opentype'),url('webfonts/3A6394_F_0.woff2') format('woff2'),url('webfonts/3A6394_F_0.woff') format('woff'),url('webfonts/3A6394_F_0.ttf') format('truetype');}
+ 

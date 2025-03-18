@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787weuyJG.ttf) format('truetype');
+}
