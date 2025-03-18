@@ -276,6 +276,12 @@ img:is([sizes="auto" i], [sizes^="auto," i]) {
         --input-font-size: smaller;
     }
 
+    .horizontal-mailchimp label {
+        display: block !important;
+        height: 1px;
+        text-indent: -9999px;
+    }
+
     [type="search"] {
         display: var(--input-display, block);
         width: var(--input-width, 100%);
@@ -1207,12 +1213,6 @@ img:is([sizes="auto" i], [sizes^="auto," i]) {
     display: inline-block;
 }
 
-.horizontal-mailchimp label {
-    display: block;
-    height: 1px;
-    text-indent: -9999px;
-}
-
 @media only screen and (max-width: 768px) {
     .horizontal-mailchimp .mc-field-group,
     .horizontal-mailchimp input {
@@ -1774,7 +1774,6 @@ a.breadcrumb-link:focus,
 .entry-header .entry-meta a:focus {
     color: #6f91c0;
 }
-
 
 /* header nav formatting */
 
